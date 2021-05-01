@@ -11,10 +11,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Tableau and Instagram Marketing
 - 👯 I’m looking to collaborate on Instagram
 - 🤔 I’m looking for help with Tableau and Data Science Projects
-- 📫 How to reach me: 
--                   https://www.linkedin.com/in/vaaru
--                   www.instagram.com/agarwalvaaruni/
--                   https://github.com/agarwalvaaruni/
+- 📫 How to reach me:
+-  
+*Linkedin*-[agarwalvaaruni](https://www.linkedin.com/in/vaaru)
+
+*Instagram*-[agarwalvaaruni](www.instagram.com/agarwalvaaruni/)
+
+*Github*-[agarwalvaaruni](https://github.com/agarwalvaaruni/)
 - 😄 Pronouns: She
 - ⚡ Fun fact: I am a Yogi at heart ❤️
 
