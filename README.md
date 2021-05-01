@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Instagram
 - 🤔 I’m looking for help with Tableau and Data Science Projects
 - 📫 How to reach me: 
-- https://www.linkedin.com/in/vaaru/ ![image](https://user-images.githubusercontent.com/72343468/116771333-1a548700-aa68-11eb-81fe-24f1d589ae12.png)
-- https://www.instagram.com/agarwalvaaruni/
-- https://github.com/agarwalvaaruni/
+-                  🔗 https://www.linkedin.com/in/vaaru/ 
+-                  🔗 https://www.instagram.com/agarwalvaaruni/
+-                  🔗 https://github.com/agarwalvaaruni/
 - 😄 Pronouns: She
 - ⚡ Fun fact: I am a Yogi at heart ❤️
 
