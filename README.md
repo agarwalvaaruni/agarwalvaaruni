@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Tableau and Instagram Marketing
 - 👯 I’m looking to collaborate on Instagram
 - 🤔 I’m looking for help with Tableau and Data Science Projects
-- 📫 How to reach me: Usually found on Instagram @vaaruniquotes![instagram](https://www.instagram.com/vaaruniquotes/). Developing my own page!! Do check it out.
+- 📫 How to reach me: Usually found on Instagram @vaaruniquotes [Instagram](https://www.instagram.com/vaaruniquotes/). Developing my own page!! Do check it out.
 - 😄 Pronouns: She
 - ⚡ Fun fact: I am a Yogi at heart ❤️
 
