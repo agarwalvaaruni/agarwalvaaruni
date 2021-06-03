@@ -5,7 +5,7 @@ I am Vaaruni Agarwal. My main areas of interest are Data Science and Data Visual
 
 #### Interested in knowing me better? You can contact me on these : 
 
-[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/vaaru)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:ashalu811@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![instagram](https://github.com/agarwalvaaruni/demo/blob/master/indta.jpg)](https://www.instagram.com/vaaruniquotes/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![github](https://github.com/agarwalvaaruni/demo/blob/master/git.png)](https://github.com/agarwalvaaruni)
+[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/vaaru)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:ashalu811@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![instagram](https://github.com/agarwalvaaruni/demo/blob/master/indta.jpg)](https://www.instagram.com/situational_quote/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![github](https://github.com/agarwalvaaruni/demo/blob/master/git.png)](https://github.com/agarwalvaaruni)
 
 
 #### Here are some ideas to get you started:
@@ -14,7 +14,7 @@ I am Vaaruni Agarwal. My main areas of interest are Data Science and Data Visual
 - 🌱 I’m currently learning Tableau and Instagram Marketing
 - 👯 I’m looking to collaborate on Instagram
 - 🤔 I’m looking for help with Tableau and Data Science Projects
-- 📫 How to reach me: Usually found on Instagram [@vaaruniquotes](https://www.instagram.com/vaaruniquotes/). Developing my own page!! Do check it out.
+- 📫 How to reach me: Usually found on Instagram [@situational_quote](https://www.instagram.com/situational_quote/). Developing my own page!! Do check it out.
 - 😄 Pronouns: She
 - ⚡ Fun fact: I am a Yogi at heart ❤️
 
